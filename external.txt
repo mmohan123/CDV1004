@@ -1,0 +1,17 @@
+1) git init -  Create a Empty Repository
+
+2) touch external.txt -   Create a new file 
+
+3) vi.txt  -  For Editing The file
+
+4) git add external.txt - For staging file in staging area
+
+5)git commit -m "Message"  - To commit the file in local repository 
+
+6)git log - Show committed logs
+
+7)git status - For showing the status of the working tree 
+
+8)git branch - Create ,list or delete the branches
+
+9) git push -To push the files from local repository to remote

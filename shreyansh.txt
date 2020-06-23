@@ -1,0 +1,17 @@
+git init                           //to initialize a repo
+
+vim shreyansh.txt                  //to create and edit a text file
+
+(esc key)
+
+:wq                                //to exit text editor mode
+
+git status                         //to check the file status
+
+git add shreyansh.txt              //to add a file in staging area
+
+git commit -m "aaaa"               //to commit the file in the local repo
+
+git branch                         //to check the branch in which the text file is made
+
+git push -u mmohan123 master       //to push the text file from local to remote repo

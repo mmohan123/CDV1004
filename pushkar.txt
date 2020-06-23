@@ -1,0 +1,17 @@
+--> git init        (to initilize a git repository)
+
+--> touch text.txt  (create text file)
+
+--> vi text.txt    ( to edit the file)
+
+--> press (esc)  then :wq   (w - to write , q - to exit)
+
+--> git add text.txt  (to stage the file in staging area)
+
+--> git log   (to check the position of file)
+
+--> git commit -m " message" (to commit the file in local repository)
+
+--> git status   ( to check the status of the file)
+
+--> git push <name of online repository>  <name of branch>   (to push the files from local repository to remote repository)
